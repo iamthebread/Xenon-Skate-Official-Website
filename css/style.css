@@ -1,0 +1,56 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #000000;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #b7e0fe;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #000000;
+    max-width: 100%;
+    height: auto;
+}
+
+    .topnav a {
+        float: left;
+        color: #b7e0fe;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover {
+            background-color: #b7e0fe;
+            color: #000000;
+        }
+
+img.banner {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: #b7e0fe;
+}
+
+p1 {
+    color: #b7e0fe;
+}
+
+p2 {
+    text-align: right;
+    color: #b7e0fe;
+    font-size: 10px;
+}
+
+h1.news {
+    text-align: center;
+    color: #b7e0fe;
+    font-size: 50px;  
+}
